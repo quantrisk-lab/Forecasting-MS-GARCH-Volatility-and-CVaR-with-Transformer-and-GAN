@@ -1,2 +1,2 @@
-# monte-carlo-var
-Monte Carlo simulation of Value-at-Risk (VaR) and Expected Shortfall (ES) for a multi-asset portfolio. Implements historical, analytical, and simulated VaR models with visualizations and backtesting in Python.
+# VaR-Estimation-and-Backtesting
+Value-at-Risk estimation using Historical, Parametric, and Monte Carlo methods with backtesting in Python
